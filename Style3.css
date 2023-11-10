@@ -1,0 +1,575 @@
+@media screen and (max-width: 1366px){
+    
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+    
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1349px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 30%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+
+    /*---------CABEÇALHO---------*/
+    
+    header {
+        position: absolute;
+        width: 1349px;
+        height: 80px;
+        top: 25px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 600px;
+    }
+    
+    .InicioHeader {
+        position: absolute;
+        left: 76.5%;
+        top: 41%;
+    }
+    
+    .RoupasHeader {
+        position: absolute;
+        left: 82%;
+        top: 41%;
+    }
+    
+    .PerfilHeader {
+        position: absolute;
+        left: 88%;
+        top: 35%;
+    }
+
+    /*------------------*/
+
+    #Sobre {
+        position: absolute;
+        width: 248px;
+        height: 95px;
+        left: 42%;
+        top: 100px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 45px;
+        line-height: 54px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #fundo1 {
+        position: absolute;
+        width: 1349px;
+        height: 260px;
+        left: 0px;
+        top: 300px;
+        background: #FDFFFC;
+    }
+
+    #Comeco {
+        position: absolute;
+        width: 265px;
+        height: 77px;
+        left: 11%;
+        top: 320px;
+    }
+
+    #texto1 {
+        position: absolute;
+        width: 1199px;
+        height: 132px;
+        left: 10%;
+        top: 390px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    /*------------------*/
+
+    #fundo2 {
+        position: absolute;
+        width: 1349px;
+        height: 197px;
+        left: 0px;
+        top: 560px;
+        background: rgba(253, 255, 252, 0.5);
+    }
+
+    #texto2 {
+        position: absolute;
+        width: 1310px;
+        height: 105px;
+        left: 2.5%;
+        top: 600px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+
+    }
+
+    /*------------------*/
+
+    #fundo3 {
+        position: absolute;
+        width: 1349px;
+        height: 400px;
+        left: 0px;
+        top: 757px;
+        background: #FFFFFF;
+    }
+
+    #Inovacao {
+        position: absolute;
+        width: 518px;
+        height: 88px;
+        left: 11%;
+        top: 800px;
+    }
+
+    #texto3 {
+        position: absolute;
+        width: 850px;
+        height: 200px;
+        left: 5%;
+        top: 925px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Moda {
+        position: absolute;
+        width: 260px;
+        height: 350px;
+        left: 75%;
+        top: 800px;
+    }
+
+    /*------------------*/
+
+    #fundo4 {
+        position: absolute;
+        width: 1349px;
+        height: 256px;
+        left: 0px;
+        top: 1157px;
+        background: rgba(253, 255, 252, 0.5);
+    }
+
+    #Web {
+        position: absolute;
+        width: 196px;
+        height: 80px;
+        left: 11%;
+        top: 1190px;
+    }
+
+    #texto4 {
+        position: absolute;
+        width: 834px;
+        height: 20px;
+        left: 30%;
+        top: 1200px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+        color: #000000;
+    }
+    
+    #texto5 {
+        position: absolute;
+        width: 850px;
+        height: 65px;
+        left: 29%;
+        top: 1240px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #texto6 {
+        position: absolute;
+        width: 1195px;
+        height: 35px;
+        left: 10%;
+        top: 1330px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #ponto{
+        position: absolute;
+        top: 1400px;
+    }
+}
+
+@media screen and (min-width: 1920px){
+    
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1919px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 34%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+    
+    /*---------CABEÇALHO---------*/
+
+    #header {
+        position: absolute;
+        width: 1919px;
+        height: 80px;
+        top: 38px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 44%;
+        top: 38px;
+    }
+    
+    .LupaHeader {
+        position: absolute;
+        left: 78%;
+        top: 70px;
+    }
+    
+    .InicioHeader {
+        position: absolute;
+        left: 82%;
+        top: 75px;
+    }
+    
+    .RoupasHeader {
+        position: absolute;
+        left: 87%;
+        top: 75px;
+    }
+    
+    .RoupasHeader {
+        position: absolute;
+        left: 86%;
+        top: 75px;
+    }
+    
+    .CarrinhoHeader {
+        position: absolute;
+        left: 91%;
+        top: 70px;
+    }
+
+    /*------------------*/
+
+    #Sobre {
+        position: absolute;
+        width: 248px;
+        height: 95px;
+        left: 42%;
+        top: 100px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 45px;
+        line-height: 54px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #fundo1 {
+        position: absolute;
+        width: 1919px;
+        height: 260px;
+        left: 0px;
+        top: 300px;
+        background: #FDFFFC;
+    }
+
+    #Comeco {
+        position: absolute;
+        width: 265px;
+        height: 77px;
+        left: 11%;
+        top: 320px;
+    }
+
+    #texto1 {
+        position: absolute;
+        width: 1300px;
+        height: 132px;
+        left: 13%;
+        top: 390px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    /*------------------*/
+
+    #fundo2 {
+        position: absolute;
+        width: 1919px;
+        height: 197px;
+        left: 0px;
+        top: 560px;
+        background: rgba(253, 255, 252, 0.5);
+    }
+
+    #texto2 {
+        position: absolute;
+        width: 1414px;
+        height: 105px;
+        left: 15%;
+        top: 580px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+
+    }
+
+    /*------------------*/
+
+    #fundo3 {
+        position: absolute;
+        width: 1919px;
+        height: 400px;
+        left: 0px;
+        top: 757px;
+        background: #FFFFFF;
+    }
+
+    #Inovacao {
+        position: absolute;
+        width: 518px;
+        height: 88px;
+        left: 11%;
+        top: 800px;
+    }
+
+    #texto3 {
+        position: absolute;
+        width: 1000px;
+        height: 200px;
+        left: 5%;
+        top: 900px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Moda {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        left: 75%;
+        top: 780px;
+    }
+
+    /*------------------*/
+
+    #fundo4 {
+        position: absolute;
+        width: 1919px;
+        height: 275px;
+        left: 0px;
+        top: 1157px;
+        background: rgba(253, 255, 252, 0.5);
+    }
+
+    #Web {
+        position: absolute;
+        width: 196px;
+        height: 80px;
+        left: 11%;
+        top: 1250px;
+    }
+
+    #texto4 {
+        position: absolute;
+        width: 877px;
+        height: 20px;
+        left: 30%;
+        top: 1200px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+        color: #000000;
+    }
+    
+    #texto5 {
+        position: absolute;
+        width: 1000px;
+        height: 65px;
+        left: 29.5%;
+        top: 1240px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #texto6 {
+        position: absolute;
+        width: 1195px;
+        height: 35px;
+        left: 20%;
+        top: 1340px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #ponto{
+        position: absolute;
+        top: 1450px;
+    }
+}

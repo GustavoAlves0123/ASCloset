@@ -1,0 +1,78 @@
+body {
+    background: #B58C8C;
+    margin: 0%;
+}
+
+/*---------PRIMEIRO TEXTINHO---------*/
+
+#Cor {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 96%;
+    width: 1600px;
+    background: #CCEEFF;
+}
+
+#Cor p {
+    position: absolute;
+    left: 30%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #6600CC;
+    opacity: 0.3;
+}
+
+/*---------CABEÇALHO---------*/
+
+header {
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    top: 32px;
+    background: #000000;
+}
+
+.LogoHeader {
+    position: absolute;
+    width: 141px;
+    height: 79px;
+    left: 700px;
+}
+
+.LupaHeader {
+    position: absolute;
+    left: 78%;
+    top: 35%;
+}
+
+.RoupasHeader {
+    position: absolute;
+    left: 81.5%;
+    top: 41%;
+}
+
+.InfoHeader {
+    position: absolute;
+    left: 87.5%;
+    top: 41%;
+}
+
+.CarrinhoHeader {
+    position: absolute;
+    left: 91.5%;
+    top: 35%;
+}
+
+/*------------------*/

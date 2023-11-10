@@ -1,0 +1,3391 @@
+@media screen and (max-width: 1366px){
+
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+    
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1349px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 30%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+    
+    /*---------CABEÇALHO---------*/
+    
+    header {
+        position: absolute;
+        width: 1349px;
+        height: 80px;
+        top: 25px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 600px;
+    }
+    
+    .RoupasHeader {
+        position: absolute;
+        left: 76%;
+        top: 41%;
+    }
+    
+    .InfoHeader {
+        position: absolute;
+        left: 83%;
+        top: 41%;
+    }
+    
+    .PerfilHeader {
+        position: absolute;
+        left: 88%;
+        top: 35%;
+    }
+    
+    /*---------BANNER---------*/
+    
+    .BannerPrincipal {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 104px;
+        bottom: 88%;
+        width: 1349px;
+    }
+    
+    /*---------BARRA DE INTERAÇÃO---------*/
+    
+    #InteracaoCor {
+        position: absolute;
+        width: 1030px;
+        height: 107px;
+        left: 12%;
+        top: 650px;
+        background: #D9D9D9;
+    }
+    
+    .Fatura {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 15%;
+        top: 680px;
+    }
+    
+    .Link1 {
+        position: absolute;
+        width: 80px;
+        height: 20px;
+        left: 19%;
+        top: 660px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Texto1 {
+        position: absolute;
+        width: 118px;
+        height: 30px;
+        left: 19%;
+        top: 680px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .Cartao {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 32%;
+        top: 680px;
+    }
+    
+    .Texto2 {
+        position: absolute;
+        width: 172px;
+        height: 30px;
+        left: 36%;
+        top: 665px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .Link2 {
+        position: absolute;
+        width: 36px;
+        height: 20px;
+        left: 36%;
+        top: 695px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Frete {
+        position: absolute;
+        width: 53px;
+        height: 44px;
+        left: 50%;
+        top: 680px;
+    }
+    
+    .Link3 {
+        position: absolute;
+        width: 103px;
+        height: 20px;
+        left: 55%;
+        top: 670px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 13px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Texto3 {
+        position: absolute;
+        width: 150px;
+        height: 20px;
+        left: 55%;
+        top: 690px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .Setas {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 69%;
+        top: 680px;
+    }
+    
+    .Link4 {
+        position: absolute;
+        width: 158px;
+        height: 20px;
+        left: 73%;
+        top: 660px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 13px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Texto4 {
+        position: absolute;
+        width: 180px;
+        height: 30px;
+        left: 73%;
+        top: 680px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    /*---------BOMBANDO---------*/
+    
+    .bombando {
+        position: absolute;
+        width: 211px;
+        height: 31px;
+        left: 5%;
+        top: 760px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 36px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    #PCalcaCargo {
+        position: absolute;
+        width: 145px;
+        height: 40px;
+        left: 7.5%;
+        top: 985px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .CalçaCargo {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 6%;
+        top: 840px;
+    }
+    
+    #PCropped {
+        position: absolute;
+        width: 145px;
+        height: 40px;
+        left: 28%;
+        top: 985px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Cropped {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 25.2%;
+        top: 840px;
+    }
+    
+    #PSherpas {
+        position: absolute;
+        width: 214px;
+        height: 47px;
+        left: 44.5%;
+        top: 995px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Sherpas {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 44.2%;
+        top: 840px;
+    }
+    
+    #PSaltos {
+        position: absolute;
+        width: 187px;
+        height: 47px;
+        left: 64%;
+        top: 985px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Saltos {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 63.4%;
+        top: 840px;
+    }
+    
+    #PFestivais {
+        position: absolute;
+        width: 103px;
+        height: 47px;
+        left: 84.5%;
+        top: 985px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Festivais {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 81.5%;
+        top: 840px;
+    }
+    
+    /*---------DESTAQUES---------*/
+    
+    #destaques {
+        position: absolute;
+        width: 301px;
+        height: 37px;
+        left: 42%;
+        top: 1080px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo1 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 8%;
+        top: 1200px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto1 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 8.4%;
+        top: 1205px;
+    }
+    
+    #Nome1 {
+        position: absolute;
+        width: 239px;
+        height: 45px;
+        left: 13%;
+        top: 1490px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco1 {
+        position: absolute;
+        width: 73px;
+        height: 22px;
+        left: 14.5%;
+        top: 1550px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 30%;
+        top: 1200px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto2 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 30.4%;
+        top: 1205px;
+    }
+    
+    #Nome2 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 34%;
+        top: 1490px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco2 {
+        position: absolute;
+        width: 90px;
+        height: 21px;
+        left: 36%;
+        top: 1550px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo3 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 52%;
+        top: 1200px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto3 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 52.3%;
+        top: 1205px;
+    }
+    
+    #Nome3 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 55%;
+        top: 1490px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco3 {
+        position: absolute;
+        width: 75px;
+        height: 21px;
+        left: 58%;
+        top: 1550px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo4 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 74%;
+        top: 1200px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto4 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 74.35%;
+        top: 1205px;
+    }
+    
+    #Nome4 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 78.5%;
+        top: 1490px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco4 {
+        position: absolute;
+        width: 90px;
+        height: 21px;
+        left: 80%;
+        top: 1550px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    /*---------DESCONTOS---------*/
+    
+    #imperdiveis {
+        position: absolute;
+        width: 230px;
+        height: 39px;
+        left: 4%;
+        top: 1630px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .desconto1 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 6%;
+        top: 1730px;
+    }
+    
+    .desconto2 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 20%;
+        top: 1730px;
+    }
+    
+    .desconto3 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 36%;
+        top: 1730px;
+    }
+    
+    .desconto4 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 53%;
+        top: 1730px;
+    }
+    
+    .desconto5 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 68%;
+        top: 1730px;
+    }
+    
+    .desconto6 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 82.5%;
+        top: 1730px;
+    }
+    
+    /*---------IMAGENS---------*/
+    
+    .ImgGrande1 {
+        position: absolute;
+        width: 556px;
+        height: 556px;
+        left: 6%;
+        top: 1972px;
+    }
+    
+    .ImgGrande2 {
+        position: absolute;
+        width: 556px;
+        height: 556px;
+        left: 53%;
+        top: 1972px;
+    }
+    
+    /*---------OFERTAS DA SEMANA---------*/
+    
+    #ofertas {
+        position: absolute;
+        width: 535px;
+        height: 50px;
+        left: 33.5%;
+        top: 2550px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Fundo5 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 8%;
+        top: 2680px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto5 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 8.4%;
+        top: 2685px;
+    }
+    
+    #Nome5 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 9.4%;
+        top: 2970px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco5 {
+        position: absolute;
+        width: 75px;
+        height: 22px;
+        left: 14.4%;
+        top: 3030px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo6 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 30%;
+        top: 2680px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto6 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 30.4%;
+        top: 2685px;
+    }
+    
+    #Nome6 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 31%;
+        top: 2970px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco6 {
+        position: absolute;
+        width: 75px;
+        height: 22px;
+        left: 36.5%;
+        top: 3030px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo7 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 52%;
+        top: 2680px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto7 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 52.3%;
+        top: 2685px;
+    }
+    
+    #Nome7 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 53%;
+        top: 2970px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco7 {
+        position: absolute;
+        width: 85px;
+        height: 22px;
+        left: 58%;
+        top: 3030px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo8 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 74%;
+        top: 2680px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto8 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 74.35%;
+        top: 2685px;
+    }
+    
+    #Nome8 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 75.5%;
+        top: 2970px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco8 {
+        position: absolute;
+        width: 90px;
+        height: 22px;
+        left: 80%;
+        top: 3030px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    /*---------ACESSÓRIOS---------*/
+    
+    #acessorios {
+        position: absolute;
+        width: 535px;
+        height: 50px;
+        left: 41%;
+        top: 3100px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Fundo9 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 6%;
+        top: 3250px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto9 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 6.4%;
+        top: 3255px;
+    }
+    
+    #Nome9 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 7.4%;
+        top: 3480px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco9 {
+        position: absolute;
+        width: 80px;
+        height: 15px;
+        left: 10%;
+        top: 3505px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo10 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 21%;
+        top: 3250px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto10 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 21.35%;
+        top: 3255px;
+    }
+    
+    #Nome10 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 22.5%;
+        top: 3480px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco10 {
+        position: absolute;
+        width: 55px;
+        height: 15px;
+        left: 25%;
+        top: 3505px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo11 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 36%;
+        top: 3250px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto11 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 36.4%;
+        top: 3255px;
+    }
+    
+    #Nome11 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 37%;
+        top: 3480px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco11 {
+        position: absolute;
+        width: 58px;
+        height: 15px;
+        left: 40.5%;
+        top: 3505px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo12 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 52%;
+        top: 3250px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto12 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 52.35%;
+        top: 3255px;
+    }
+    
+    #Nome12 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 54%;
+        top: 3480px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco12 {
+        position: absolute;
+        width: 80px;
+        height: 15px;
+        left: 56%;
+        top: 3505px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo13 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 67%;
+        top: 3250px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto13 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 67.4%;
+        top: 3255px;
+    }
+    
+    #Nome13 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 69%;
+        top: 3480px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco13 {
+        position: absolute;
+        width: 55px;
+        height: 15px;
+        left: 71%;
+        top: 3505px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo14 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 81.6%;
+        top: 3250px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto14 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 82%;
+        top: 3255px;
+    }
+    
+    #Nome14 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 84%;
+        top: 3480px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco14 {
+        position: absolute;
+        width: 58px;
+        height: 15px;
+        left: 86%;
+        top: 3505px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    /*---------BLOG---------*/
+    
+    #Blog {
+        position: absolute;
+        width: 216px;
+        height: 62px;
+        left: 46%;
+        top: 3550px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo15 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 1078px;
+        height: 461px;
+        left: 10%;
+        top: 3680px;
+        background: #E3E3E3;
+        border: 2px solid #FE0174;
+    }
+    
+    .Foto15 {
+        position: absolute;
+        width: 722px;
+        height: 462px;
+        left: 10%;
+        top: 3679px;
+    }
+    
+    #Nome15 {
+        position: absolute;
+        width: 233px;
+        height: 18px;
+        left: 70%;
+        top: 3665px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Foto16 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 65%;
+        top: 3725px;
+    }
+    
+    .Foto17 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 77%;
+        top: 3725px;
+    }
+    
+    .Foto18 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 65%;
+        top: 3915px;
+    }
+    
+    .Foto19 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 77%;
+        top: 3915px;
+    }
+    
+    .BotaoBlog {
+        position: absolute;
+        width: 124px;
+        height: 33px;
+        left: 72%;
+        top: 4100px;
+    }
+    
+    /*---------RODAPÉ---------*/
+    
+    #RodaFundo {
+        position: absolute;
+        width: 1349px;
+        height: 350px;
+        left: 0px;
+        top: 4245px;
+        background: #D9D9D9;
+    }
+    
+    .Titulo1 {
+        position: absolute;
+        width: 150px;
+        height: 20px;
+        left: 8%;
+        top: 4300px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub1 {
+        position: absolute;
+        width: 255px;
+        height: 20px;
+        left: 8%;
+        top: 4350px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub2 {
+        position: absolute;
+        width: 305px;
+        height: 20px;
+        left: 8%;
+        top: 4400px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub3 {
+        position: absolute;
+        width: 240px;
+        height: 20px;
+        left: 8%;
+        top: 4450px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Titulo2 {
+        position: absolute;
+        width: 110px;
+        height: 20px;
+        left: 35%;
+        top: 4300px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub4 {
+        position: absolute;
+        width: 335px;
+        height: 20px;
+        left: 35%;
+        top: 4350px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub5 {
+        position: absolute;
+        width: 270px;
+        height: 20px;
+        left: 35%;
+        top: 4390px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub6 {
+        position: absolute;
+        width: 155px;
+        height: 20px;
+        left: 35%;
+        top: 4430px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub7 {
+        position: absolute;
+        width: 125px;
+        height: 20px;
+        left: 35%;
+        top: 4470px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub8 {
+        position: absolute;
+        width: 115px;
+        height: 20px;
+        left: 35%;
+        top: 4510px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Titulo3 {
+        position: absolute;
+        width: 153px;
+        height: 20px;
+        left: 65%;
+        top: 4300px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .InstaPic {
+        position: absolute;
+        left: 66%;
+        top: 4355px;
+        bottom: 4%;
+    }
+    
+    .TTPic {
+        position: absolute;
+        left: 71%;
+        top: 4355px;
+        bottom: 4%;
+    }
+    
+    .Titulo4 {
+        position: absolute;
+        width: 252px;
+        height: 20px;
+        left: 65%;
+        top: 4450px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .CardVisa {
+        position: absolute;
+        left: 61%;
+        top: 4500px;
+        bottom: 0.86%;
+    }
+    
+    .CardMaster {
+        position: absolute;
+        left: 68%;
+        top: 4500px;
+    }
+    
+    .CardAmerican {
+        position: absolute;
+        left: 75%;
+        top: 4500px;
+        bottom: 0.74%;
+    }
+    
+    .Pix {
+        position: absolute;
+        left: 82%;
+        top: 4500px;
+        bottom: 0.57%;
+    }
+}
+
+@media screen and (min-width: 1920px){
+    
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+    
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1903px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 32%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+    
+    /*---------CABEÇALHO---------*/
+    
+    header {
+        position: absolute;
+        width: 1903px;
+        height: 80px;
+        left: 0%;
+        right: 0%;
+        top: 39px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 44%;
+        top: 0px;
+    }
+    
+    .LupaHeader {
+        position: absolute;
+        left: 81%;
+        right: 17%;
+        top: 35%;
+        bottom: 98%;
+    }
+    
+    .RoupasHeader {
+        position: absolute;
+        left: 83.5%;
+        top: 40%;
+        bottom: 98%;
+    }
+    
+    .InfoHeader {
+        position: absolute;
+        left: 88%;
+        top: 40%;
+        bottom: 98%;
+    }
+    
+    .PerfilHeader {
+        position: absolute;
+        left: 92%;
+        right: 8%;
+        top: 35%;
+        bottom: 98%;
+    }
+
+    /*---------BANNER---------*/
+    
+    .BannerPrincipal {
+        position: absolute;
+        width: 1903px;
+        left: 0%;
+        top: 118px;
+        bottom: 87%;
+    }
+
+    /*---------BARRA DE INTERAÇÃO---------*/
+    
+    #InteracaoCor {
+        position: absolute;
+        width: 1370px;
+        height: 107px;
+        left: 13%;
+        top: 900px;
+        background: #D9D9D9;
+    }
+    
+    .Fatura {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 15%;
+        top: 930px;
+    }
+    
+    .Link1 {
+        position: absolute;
+        width: 80px;
+        height: 20px;
+        left: 19%;
+        top: 910px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Texto1 {
+        position: absolute;
+        width: 118px;
+        height: 30px;
+        left: 19%;
+        top: 930px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .Cartao {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 32%;
+        top: 930px;
+    }
+    
+    .Texto2 {
+        position: absolute;
+        width: 172px;
+        height: 30px;
+        left: 36%;
+        top: 915px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .Link2 {
+        position: absolute;
+        width: 36px;
+        height: 20px;
+        left: 36%;
+        top: 945px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Frete {
+        position: absolute;
+        width: 53px;
+        height: 44px;
+        left: 50%;
+        top: 930px;
+    }
+    
+    .Link3 {
+        position: absolute;
+        width: 104px;
+        height: 20px;
+        left: 55%;
+        top: 920px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 13px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Texto3 {
+        position: absolute;
+        width: 150px;
+        height: 20px;
+        left: 55%;
+        top: 940px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    
+    .Setas {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        left: 69%;
+        top: 930px;
+    }
+    
+    .Link4 {
+        position: absolute;
+        width: 158px;
+        height: 20px;
+        left: 73%;
+        top: 910px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 13px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-decoration-line: underline;
+        text-transform: uppercase;
+        color: #00802B;
+    }
+    
+    .Texto4 {
+        position: absolute;
+        width: 180px;
+        height: 30px;
+        left: 73%;
+        top: 930px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+
+    /*---------BOMBANDO---------*/
+    
+    .bombando {
+        position: absolute;
+        width: 211px;
+        height: 31px;
+        left: 4%;
+        top: 1050px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 36px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #PCalcaCargo {
+        position: absolute;
+        width: 145px;
+        height: 40px;
+        left: 7%;
+        top: 1320px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    .CalçaCargo {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 5%;
+        top: 1150px;
+    }
+
+    #PCropped {
+        position: absolute;
+        width: 145px;
+        height: 40px;
+        left: 27%;
+        top: 1320px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    .Cropped {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 24.2%;
+        top: 1150px;
+    }
+
+    #PSherpas {
+        position: absolute;
+        width: 214px;
+        height: 47px;
+        left: 44%;
+        top: 1330px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Sherpas {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 43.2%;
+        top: 1150px;
+    }
+
+    #PSaltos {
+        position: absolute;
+        width: 187px;
+        height: 47px;
+        left: 63.5%;
+        top: 1320px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Saltos {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 62.4%;
+        top: 1150px;
+    }
+
+    #PFestivais {
+        position: absolute;
+        width: 103px;
+        height: 47px;
+        left: 83.5%;
+        top: 1320px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    .Festivais {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 80.5%;
+        top: 1150px;
+    }
+
+    /*---------DESTAQUES---------*/
+    
+    #destaques {
+        position: absolute;
+        width: 301px;
+        height: 37px;
+        left: 40%;
+        top: 1450px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo1 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 8%;
+        top: 1600px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto1 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 8.25%;
+        top: 1605px;
+    }
+    
+    #Nome1 {
+        position: absolute;
+        width: 239px;
+        height: 45px;
+        left: 11.5%;
+        top: 1890px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco1 {
+        position: absolute;
+        width: 74px;
+        height: 20px;
+        left: 12.3%;
+        top: 1960px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 30%;
+        top: 1600px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto2 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 30.25%;
+        top: 1605px;
+    }
+    
+    #Nome2 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 33%;
+        top: 1890px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco2 {
+        position: absolute;
+        width: 90px;
+        height: 21px;
+        left: 34.5%;
+        top: 1960px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo3 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 52%;
+        top: 1600px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto3 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 52.3%;
+        top: 1605px;
+    }
+    
+    #Nome3 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 54.5%;
+        top: 1890px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco3 {
+        position: absolute;
+        width: 75px;
+        height: 21px;
+        left: 56.5%;
+        top: 1960px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo4 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 420px;
+        left: 74%;
+        top: 1600px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto4 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 74.25%;
+        top: 1605px;
+    }
+    
+    #Nome4 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 77.5%;
+        top: 1890px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco4 {
+        position: absolute;
+        width: 90px;
+        height: 21px;
+        left: 78.5%;
+        top: 1960px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    /*---------DESCONTOS---------*/
+    
+    #imperdiveis {
+        position: absolute;
+        width: 230px;
+        height: 39px;
+        left: 4%;
+        top: 2050px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .desconto1 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 6%;
+        top: 2150px;
+    }
+    
+    .desconto2 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 19%;
+        top: 2150px;
+    }
+    
+    .desconto3 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 35%;
+        top: 2150px;
+    }
+    
+    .desconto4 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 52%;
+        top: 2150px;
+    }
+    
+    .desconto5 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 67%;
+        top: 2150px;
+    }
+    
+    .desconto6 {
+        position: absolute;
+        width: 153px;
+        height: 160px;
+        left: 81.5%;
+        top: 2150px;
+    }
+
+    /*---------IMAGENS---------*/
+    
+    .ImgGrande1 {
+        position: absolute;
+        width: 556px;
+        height: 556px;
+        left: 10%;
+        top: 2400px;
+    }
+    
+    .ImgGrande2 {
+        position: absolute;
+        width: 556px;
+        height: 556px;
+        left: 55%;
+        top: 2400px;
+    }
+
+    /*---------OFERTAS DA SEMANA---------*/
+    
+    #ofertas {
+        position: absolute;
+        width: 535px;
+        height: 50px;
+        left: 33.5%;
+        top: 3000px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Fundo5 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 8%;
+        top: 3150px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto5 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 8.25%;
+        top: 3155px;
+    }
+    
+    #Nome5 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 8.7%;
+        top: 3450px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco5 {
+        position: absolute;
+        width: 75px;
+        height: 22px;
+        left: 12.4%;
+        top: 3510px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo6 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 30%;
+        top: 3150px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto6 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 30.25%;
+        top: 3155px;
+    }
+    
+    #Nome6 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 30.5%;
+        top: 3450px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco6 {
+        position: absolute;
+        width: 75px;
+        height: 22px;
+        left: 34.5%;
+        top: 3510px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo7 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 52%;
+        top: 3150px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto7 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 52.3%;
+        top: 3155px;
+    }
+    
+    #Nome7 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 52.5%;
+        top: 3450px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco7 {
+        position: absolute;
+        width: 85px;
+        height: 22px;
+        left: 56.5%;
+        top: 3510px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo8 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 249px;
+        height: 414px;
+        left: 74%;
+        top: 3150px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto8 {
+        position: absolute;
+        width: 239px;
+        height: 297px;
+        left: 74.25%;
+        top: 3155px;
+    }
+    
+    #Nome8 {
+        position: absolute;
+        width: 239px;
+        height: 46px;
+        left: 74.7%;
+        top: 3450px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 33px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco8 {
+        position: absolute;
+        width: 90px;
+        height: 22px;
+        left: 78.4%;
+        top: 3510px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 31px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    /*---------ACESSÓRIOS---------*/
+    
+    #acessorios {
+        position: absolute;
+        width: 535px;
+        height: 50px;
+        left: 40%;
+        top: 3600px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Fundo9 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 6%;
+        top: 3750px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto9 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 6.25%;
+        top: 3755px;
+    }
+    
+    #Nome9 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 6.8%;
+        top: 3980px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco9 {
+        position: absolute;
+        width: 80px;
+        height: 15px;
+        left: 9%;
+        top: 4005px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo10 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 21%;
+        top: 3750px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto10 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 21.3%;
+        top: 3755px;
+    }
+    
+    #Nome10 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 22%;
+        top: 3980px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco10 {
+        position: absolute;
+        width: 55px;
+        height: 15px;
+        left: 24%;
+        top: 4005px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo11 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 36%;
+        top: 3750px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto11 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 36.25%;
+        top: 3755px;
+    }
+    
+    #Nome11 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 36.8%;
+        top: 3980px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco11 {
+        position: absolute;
+        width: 58px;
+        height: 15px;
+        left: 39%;
+        top: 4005px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo12 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 52%;
+        top: 3750px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto12 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 52.3%;
+        top: 3755px;
+    }
+    
+    #Nome12 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 53.5%;
+        top: 3980px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco12 {
+        position: absolute;
+        width: 80px;
+        height: 15px;
+        left: 55%;
+        top: 4005px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo13 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 67%;
+        top: 3750px;
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+    
+    .Foto13 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 67.25%;
+        top: 3755px;
+    }
+    
+    #Nome13 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 68.5%;
+        top: 3980px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco13 {
+        position: absolute;
+        width: 55px;
+        height: 15px;
+        left: 70%;
+        top: 4005px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo14 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 169px;
+        height: 300px;
+        left: 81.6%;
+        top: 3750px;
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+    
+    .Foto14 {
+        position: absolute;
+        width: 159px;
+        height: 238px;
+        left: 81.85%;
+        top: 3755px;
+    }
+    
+    #Nome14 {
+        position: absolute;
+        width: 159px;
+        height: 15px;
+        left: 83%;
+        top: 3980px;
+    
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    #Preco14 {
+        position: absolute;
+        width: 58px;
+        height: 15px;
+        left: 85%;
+        top: 4005px;
+    
+        font-family: 'Aref Ruqaa';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    /*---------BLOG---------*/
+    
+    #Blog {
+        position: absolute;
+        width: 216px;
+        height: 62px;
+        left: 45%;
+        top: 4050px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Fundo15 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 1078px;
+        height: 461px;
+        left: 20%;
+        top: 4180px;
+        background: #E3E3E3;
+        border: 2px solid #FE0174;
+    }
+    
+    .Foto15 {
+        position: absolute;
+        width: 722px;
+        height: 462px;
+        left: 20%;
+        top: 4179px;
+    }
+    
+    #Nome15 {
+        position: absolute;
+        width: 233px;
+        height: 18px;
+        left: 62%;
+        top: 4160px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .Foto16 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 60%;
+        top: 4230px;
+    }
+    
+    .Foto17 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 68%;
+        top: 4230px;
+    }
+    
+    .Foto18 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 60%;
+        top: 4415px;
+    }
+    
+    .Foto19 {
+        position: absolute;
+        width: 134px;
+        height: 168px;
+        left: 68%;
+        top: 4415px;
+    }
+    
+    .BotaoBlog {
+        position: absolute;
+        width: 124px;
+        height: 33px;
+        left: 64%;
+        top: 4600px;
+    }
+
+    /*---------RODAPÉ---------*/
+    
+    #RodaFundo {
+        position: absolute;
+        width: 1903px;
+        height: 350px;
+        left: 0px;
+        top: 4745px;
+        background: #D9D9D9;
+    }
+
+    .Titulo1 {
+        position: absolute;
+        width: 150px;
+        height: 20px;
+        left: 8%;
+        top: 4800px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub1 {
+        position: absolute;
+        width: 255px;
+        height: 20px;
+        left: 8%;
+        top: 4850px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub2 {
+        position: absolute;
+        width: 305px;
+        height: 20px;
+        left: 8%;
+        top: 4900px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub3 {
+        position: absolute;
+        width: 240px;
+        height: 20px;
+        left: 8%;
+        top: 4950px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Titulo2 {
+        position: absolute;
+        width: 110px;
+        height: 20px;
+        left: 35%;
+        top: 4800px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub4 {
+        position: absolute;
+        width: 335px;
+        height: 20px;
+        left: 35%;
+        top: 4850px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub5 {
+        position: absolute;
+        width: 270px;
+        height: 20px;
+        left: 35%;
+        top: 4890px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub6 {
+        position: absolute;
+        width: 155px;
+        height: 20px;
+        left: 35%;
+        top: 4930px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub7 {
+        position: absolute;
+        width: 125px;
+        height: 20px;
+        left: 35%;
+        top: 4970px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Sub8 {
+        position: absolute;
+        width: 115px;
+        height: 20px;
+        left: 35%;
+        top: 5010px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .Titulo3 {
+        position: absolute;
+        width: 154px;
+        height: 20px;
+        left: 65%;
+        top: 4800px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .InstaPic {
+        position: absolute;
+        left: 66%;
+        top: 4855px;
+        bottom: 4%;
+    }
+    
+    .TTPic {
+        position: absolute;
+        left: 71%;
+        top: 4855px;
+        bottom: 4%;
+    }
+    
+    .Titulo4 {
+        position: absolute;
+        width: 255px;
+        height: 20px;
+        left: 65%;
+        top: 4950px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .CardVisa {
+        position: absolute;
+        left: 61%;
+        top: 5020px;
+        bottom: 0.86%;
+    }
+    
+    .CardMaster {
+        position: absolute;
+        left: 68%;
+        top: 5020px;
+    }
+    
+    .CardAmerican {
+        position: absolute;
+        left: 75%;
+        top: 5020px;
+        bottom: 0.74%;
+    }
+    
+    .Pix {
+        position: absolute;
+        left: 82%;
+        top: 5020px;
+        bottom: 0.57%;
+    }
+
+}

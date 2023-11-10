@@ -1,0 +1,797 @@
+@media screen and (max-width: 1366px){
+    
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1349px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 30%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+    
+    /*---------CABEÇALHO---------*/
+    
+    header {
+        position: absolute;
+        width: 1349px;
+        height: 80px;
+        top: 25px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 600px;
+    }
+    
+    .InicioHeader {
+        position: absolute;
+        left: 76.5%;
+        top: 41%;
+    }
+    
+    .InfoHeader {
+        position: absolute;
+        left: 83%;
+        top: 41%;
+    }
+    
+    .PerfilHeader {
+        position: absolute;
+        left: 88%;
+        top: 35%;
+    }
+    
+    /*---------ROUPAS---------*/
+
+    #TituloRoupas{
+        position: absolute;
+        width: 201px;
+        height: 40px;
+        left: 43.5%;
+        top: 100px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Fundo1 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 4.45%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 20.4%;
+        top: 245px;
+        z-index: -1;
+        
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo3 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 36.3%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo4 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 52.25%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo5 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 68.2%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo6 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 84.1%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo7 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 4.45%;
+        top: 658px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo8 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 20.4%;
+        top: 658px;
+        z-index: -1;
+        
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo9 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 36.3%;
+        top: 658px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo10 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 52.25%;
+        top: 658px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo11 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 68.2%;
+        top: 658px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo12 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 84.1%;
+        top: 658px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    #Roupas {
+        display: grid;
+        grid-template-areas: 
+        "prod prod prod prod prod prod"
+        "prod prod prod prod prod prod";
+        justify-content: center;
+        grid-gap: 70px;
+        margin-top: 250px;
+    }
+
+    #Roupas a div p {
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+
+    /*---------ACESSÓRIOS---------*/
+
+    #TituloAcesso {
+        position: absolute;
+        width: 316px;
+        height: 40px;
+        left: 40%;
+        top: 1050px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Fundo13 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 156px;
+        height: 335px;
+        left: 5.3%;
+        top: 1201px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo14 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 20.9%;
+        top: 1201px;
+        z-index: -1;
+        
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo15 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 36.5%;
+        top: 1201px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo16 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 52.05%;
+        top: 1201px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo17 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 67.6%;
+        top: 1201px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo18 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 83.2%;
+        top: 1201px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    #Acessorios {
+        display: grid;
+        grid-template-areas: 
+        "prod prod prod prod prod prod";
+        justify-content: center;
+        grid-gap: 65px;
+        margin-top: 200px;
+    }
+
+    #Acessorios a div p {
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #ponto {
+        position: absolute;
+        top: 1600px;
+    }
+}
+
+@media screen and (min-width: 1920px){
+    
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1919px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 34%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+    
+    /*---------CABEÇALHO---------*/
+
+    #header {
+        position: absolute;
+        width: 1919px;
+        height: 80px;
+        top: 38px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 44%;
+        top: 38px;
+    }
+    
+    .LupaHeader {
+        position: absolute;
+        left: 78%;
+        top: 70px;
+    }
+    
+    .InicioHeader {
+        position: absolute;
+        left: 82%;
+        top: 75px;
+    }
+    
+    .InfoHeader {
+        position: absolute;
+        left: 87%;
+        top: 75px;
+    }
+    
+    .CarrinhoHeader {
+        position: absolute;
+        left: 91%;
+        top: 70px;
+    }
+
+    /*---------ROUPAS---------*/
+
+    #TituloRoupas{
+        position: absolute;
+        width: 201px;
+        height: 40px;
+        left: 43%;
+        top: 100px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Fundo1 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 7.2%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 22.7%;
+        top: 245px;
+        z-index: -1;
+        
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo3 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 38.2%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo4 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 53.7%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo5 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 69.2%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo6 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 84.7%;
+        top: 245px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo7 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 7.2%;
+        top: 738px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo8 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 22.7%;
+        top: 738px;
+        z-index: -1;
+        
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo9 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 38.2%;
+        top: 738px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo10 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 53.7%;
+        top: 738px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo11 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 69.2%;
+        top: 738px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo12 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 350px;
+        left: 84.7%;
+        top: 738px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    #Roupas {
+        display: grid;
+        grid-template-areas: 
+        "prod prod prod prod prod prod"
+        "prod prod prod prod prod prod";
+        justify-content: center;
+        grid-gap: 150px;
+        margin-top: 250px;
+    }
+
+    #Roupas a div p {
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+
+    /*---------ACESSÓRIOS---------*/
+
+    #TituloAcesso {
+        position: absolute;
+        width: 316px;
+        height: 40px;
+        left: 40%;
+        top: 1150px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Fundo13 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 156px;
+        height: 335px;
+        left: 8.5%;
+        top: 1281px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo14 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 23.5%;
+        top: 1281px;
+        z-index: -1;
+        
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo15 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 38.45%;
+        top: 1281px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo16 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 53.45%;
+        top: 1281px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    .Fundo17 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 68.4%;
+        top: 1281px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FE0174;
+    }
+
+    .Fundo18 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 155px;
+        height: 335px;
+        left: 83.4%;
+        top: 1281px;
+        z-index: -1;
+
+        background: #D9D9D9;
+        border: 5px solid #FF01D9;
+    }
+
+    #Acessorios {
+        display: grid;
+        grid-template-areas: 
+        "prod prod prod prod prod prod";
+        justify-content: center;
+        grid-gap: 140px;
+        margin-top: 200px;
+    }
+
+    #Acessorios a div p {
+        font-family: 'Arima Madurai';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #ponto {
+        position: absolute;
+        top: 1650px;
+    }
+}

@@ -1,0 +1,744 @@
+@media screen and (max-width: 1366px){
+
+    body {
+        background: #B58C8C;
+        margin: 0%;
+    }
+    
+    /*---------PRIMEIRO TEXTINHO---------*/
+    
+    #Cor {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 96%;
+        width: 1349px;
+        background: #CCEEFF;
+    }
+    
+    #Cor p {
+        position: absolute;
+        left: 30%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #6600CC;
+        opacity: 0.3;
+    }
+
+    /*---------CABEÇALHO---------*/
+    
+    header {
+        position: absolute;
+        width: 1349px;
+        height: 80px;
+        top: 25px;
+        background: #000000;
+    }
+    
+    .LogoHeader {
+        position: absolute;
+        width: 141px;
+        height: 79px;
+        left: 600px;
+    }
+    
+    .InicioHeader {
+        position: absolute;
+        left: 76.5%;
+        top: 41%;
+    }
+    
+    .RoupasHeader {
+        position: absolute;
+        left: 82%;
+        top: 41%;
+    }
+    
+    .InfoHeader {
+        position: absolute;
+        left: 88%;
+        top: 41%;
+    }
+
+    /*---------FORMULÁRIO LOGIN---------*/
+
+    #Form1 {
+        position: absolute;
+        width: 500px;
+        height: 400px;
+        left: 5.5%;
+        top: 250px;
+
+        background: rgba(255, 255, 255, 0.8);
+        border-radius: 27px;
+    }
+
+    .Titulo1 {
+        position: absolute;
+        width: 245px;
+        height: 25px;
+        left: 17%;
+        top: 250px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 36px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #Nome p {
+        position: absolute;
+        width: 206px;
+        height: 18px;
+        left: 7%;
+        top: 320px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Nome input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 8%;
+        top: 375px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+
+    #Senha p {
+        position: absolute;
+        width: 75px;
+        height: 18px;
+        left: 7%;
+        top: 430px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Senha input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 8%;
+        top: 480px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        border-radius: 5px;
+        line-height: 27px;
+        background: #D9D9D9;
+    }
+
+    #Continuar {
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        left: 17%;
+        top: 560px;
+
+        background: rgba(254, 1, 116, 0.7);
+        border-radius: 5px;
+    }
+
+    #Continuar p {
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        top: -21px;
+        left: 35px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    /*---------FORMULÁRIO CADASTRO---------*/
+
+    #Form2 {
+        position: absolute;
+        width: 510px;
+        height: 670px;
+        left: 55%;
+        top: 150px;
+
+        background: rgba(255, 255, 255, 0.8);
+        border-radius: 27px;
+    }
+
+    .Titulo2 {
+        position: absolute;
+        width: 257px;
+        height: 25px;
+        left: 64%;
+        top: 150px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 36px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #Nome2 p {
+        position: absolute;
+        width: 221px;
+        height: 23px;
+        left: 57%;
+        top: 220px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Nome2 input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 58%;
+        top: 280px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+
+    #cpf2 p {
+        position: absolute;
+        width: 49px;
+        height: 23px;
+        left: 57%;
+        top: 340px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #cpf2 input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 58%;
+        top: 400px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+
+    #email p {
+        position: absolute;
+        width: 75px;
+        height: 23px;
+        left: 57%;
+        top: 460px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #email input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 58%;
+        top: 520px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+
+    #email2 p {
+        position: absolute;
+        width: 269px;
+        height: 23px;
+        left: 57%;
+        top: 580px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #email2 input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 58%;
+        top: 640px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+
+    #Continuar2 {
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        left: 67%;
+        top: 720px;
+
+        background: rgb(238, 68, 102);
+        border-radius: 5px;
+    }
+
+    #Continuar2 p {
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        top: -21px;
+        left: 35px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    #ponto {
+        position: absolute;
+        top: 820px;
+    }
+
+}
+
+
+@media screen and (min-width: 1920px){
+
+    body {
+    background: #B58C8C;
+    margin: 0%;
+    }
+
+    /*---------PRIMEIRO TEXTINHO---------*/
+
+    #Cor {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 96%;
+    width: 1920px;
+    background: #CCEEFF;
+    }
+
+    #Cor p {
+    position: absolute;
+    left: 30%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #6600CC;
+    opacity: 0.3;
+    }
+
+    /*---------CABEÇALHO---------*/
+
+    header {
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    top: 32px;
+    background: #000000;
+    }
+
+    .LogoHeader {
+    position: absolute;
+    width: 141px;
+    height: 79px;
+    left: 850px;
+    }
+
+    .LupaHeader {
+    position: absolute;
+    left: 78%;
+    top: 35%;
+    }
+
+    .RoupasHeader {
+    position: absolute;
+    left: 81.5%;
+    top: 41%;
+    }
+
+    .InfoHeader {
+    position: absolute;
+    left: 87.5%;
+    top: 41%;
+    }
+
+    .CarrinhoHeader {
+    position: absolute;
+    left: 91.5%;
+    top: 35%;
+    }
+
+    /*---------FORMULÁRIO LOGIN---------*/
+
+    #Form1 {
+    position: absolute;
+    width: 600px;
+    height: 491px;
+    left: 200px;
+    top: 250px;
+
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 27px;
+    }
+
+    /*.Titulo1 {
+        position: absolute;
+        width: 245px;
+        height: 25px;
+        left: 230px;
+        top: 250px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 36px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #Nome p {
+        position: absolute;
+        width: 206px;
+        height: 18px;
+        left: 120px;
+        top: 320px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Nome input {
+    position: absolute;
+    width: 432px;
+    height: 47px;
+    left: 125px;
+    top: 375px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    background: #D9D9D9;
+    border-radius: 5px;
+    }
+
+    #Senha p {
+    position: absolute;
+    width: 75px;
+    height: 18px;
+    left: 120px;
+    top: 430px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    }
+
+    #Senha input {
+    position: absolute;
+    width: 432px;
+    height: 47px;
+    left: 125px;
+    top: 480px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    border-radius: 5px;
+    line-height: 27px;
+    background: #D9D9D9;
+    }
+
+    #Continuar {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    left: 260px;
+    top: 560px;
+
+    background: rgb(238, 68, 102);
+    border-radius: 5px;
+    }
+
+    #Continuar p {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    top: -20px;
+    left: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    }*/
+
+    /*---------FORMULÁRIO CADASTRO---------*/
+
+    #Form2 {
+        position: absolute;
+        width: 600px;
+        height: 680px;
+        left: 1050px;
+        top: 150px;
+
+        background: rgba(255, 255, 255, 0.8);
+        border-radius: 27px;
+    }
+
+    .Titulo2 {
+        position: absolute;
+        width: 310px;
+        height: 25px;
+        left: 1200px;
+        top: 160px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 36px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+
+    #Nome2 p {
+        position: absolute;
+        width: 206px;
+        height: 18px;
+        left: 1090px;
+        top: 230px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #Nome2 input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 1095px;
+        top: 280px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        background: #D9D9D9;
+        border-radius: 5px;
+    }
+
+    #cpf2 p {
+        position: absolute;
+        width: 75px;
+        height: 18px;
+        left: 1090px;
+        top: 1000px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+
+    #cpf2 input {
+        position: absolute;
+        width: 432px;
+        height: 47px;
+        left: 125px;
+        top: 480px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        border-radius: 5px;
+        line-height: 27px;
+        background: #D9D9D9;
+    }
+
+    #Continuar2 {
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        left: 260px;
+        top: 560px;
+
+        background: rgb(238, 68, 102);
+        border-radius: 5px;
+    }
+
+    #Continuar2 p {
+        position: absolute;
+        width: 180px;
+        height: 60px;
+        top: -20px;
+        left: 20px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
